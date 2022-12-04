@@ -7,5 +7,5 @@ padding: 20px 0; margin-top: 0; position: fixed; top: 0; left:0; z-index: 1; wid
 h3 {color: darkblue; padding: 40px; position: relative; top: 80px; text-shadow: 0px 0px 18px rgba(206, 212, 215, 1);}
 a.button {position: relative; color: white; background-color: darkblue; top: 130px; padding: 30px; opacity: 100%; border: solid 1px darkblue; border-radius: 8px;}
 a:hover {background-color: rgb(94, 82, 170);}
-p.lorem {position: relative; top: 200px; color: white; background-color: gray; opacity: 88%; padding: 20px 20px; margin-left: 35%; margin-right: 35%;
+p.lorem {position: relative; top: 200px; color: white; background-color: gray; opacity: 88%; padding: 20px 20px; margin-left: 30%; margin-right: 30%;
 line-height: 200%; margin-bottom: 300px; text-shadow: 0px 0px 20px rgba(255, 255, 255, 0.83);}
