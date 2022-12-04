@@ -3,7 +3,7 @@ footer {position: fixed; bottom:0; left:0 ; z-index: 2; text-align: center; back
 body {box-sizing: border-box; text-align: center; background-image: url("./istockphoto-811268074-612x612.jpg"); background-size: cover; overflow: scroll;}
 * {font-family: Helvetica, sans-serif;}
 h1 {color: darkblue; background-color: yellowgreen; box-shadow: 0 10px 40px black;
-padding: 20px; margin-top: 0; position: fixed; top: 0; left:0; z-index: 1; width: 100%;}
+padding: 20px 0; margin-top: 0; position: fixed; top: 0; left:0; z-index: 1; width: 100%;}
 h3 {color: darkblue; padding: 40px; position: relative; top: 80px; text-shadow: 0px 0px 18px rgba(206, 212, 215, 1);}
 a.button {position: relative; color: white; background-color: darkblue; top: 130px; padding: 30px; opacity: 100%; border: solid 1px darkblue; border-radius: 8px;}
 a:hover {background-color: rgb(94, 82, 170);}
